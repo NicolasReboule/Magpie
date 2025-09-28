@@ -42,20 +42,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/NicolasReboule/CPPTemplate">
+  <a href="https://github.com/NicolasReboule/Magpie">
     <img src="assets/logo.ico" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">CPPTemplate</h3>
+<h3 align="center">Magpie</h3>
 
   <p align="center">
-    CPPTemplate is a C++ Template for my future projects <br />
+    Magpie is a C++ Template for my future projects <br />
     <br />
-    <a href="https://NicolasReboule.github.io/CPPTemplate"><strong>Explore the source code docs »</strong></a>
+    <a href="https://NicolasReboule.github.io/Magpie"><strong>Explore the source code docs »</strong></a>
     <br />
-    <a href="https://github.com/NicolasReboule/CPPTemplate/issues">Report Bug</a>
+    <a href="https://github.com/NicolasReboule/Magpie/issues">Report Bug</a>
     ·
-    <a href="https://github.com/NicolasReboule/CPPTemplate/issues">Request Feature</a>
+    <a href="https://github.com/NicolasReboule/Magpie/issues">Request Feature</a>
   </p>
 </div>
 
@@ -108,7 +108,7 @@
 ## Documentation
 
 The documentation of this project can be found at:
-- Source code documentation: [https://nicolasreboule.github.io/CPPTemplate][github.io-url]
+- Source code documentation: [https://nicolasreboule.github.io/Magpie][github.io-url]
 
 ## Usage
 
@@ -146,28 +146,28 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/NicolasReboule/CPPTemplate.svg?style=for-the-badge
-[contributors-url]: https://github.com/NicolasReboule/CPPTemplate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NicolasReboule/CPPTemplate.svg?style=for-the-badge
-[forks-url]: https://github.com/NicolasReboule/CPPTemplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/NicolasReboule/CPPTemplate.svg?style=for-the-badge
-[stars-url]: https://github.com/NicolasReboule/CPPTemplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NicolasReboule/CPPTemplate.svg?style=for-the-badge
-[issues-url]: https://github.com/NicolasReboule/CPPTemplate/issues
-[license-shield]: https://img.shields.io/github/license/NicolasReboule/CPPTemplate.svg?style=for-the-badge
-[license-url]: https://github.com/NicolasReboule/CPPTemplate/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/NicolasReboule/Magpie.svg?style=for-the-badge
+[contributors-url]: https://github.com/NicolasReboule/Magpie/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NicolasReboule/Magpie.svg?style=for-the-badge
+[forks-url]: https://github.com/NicolasReboule/Magpie/network/members
+[stars-shield]: https://img.shields.io/github/stars/NicolasReboule/Magpie.svg?style=for-the-badge
+[stars-url]: https://github.com/NicolasReboule/Magpie/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NicolasReboule/Magpie.svg?style=for-the-badge
+[issues-url]: https://github.com/NicolasReboule/Magpie/issues
+[license-shield]: https://img.shields.io/github/license/NicolasReboule/Magpie.svg?style=for-the-badge
+[license-url]: https://github.com/NicolasReboule/Magpie/blob/master/LICENSE
 [contributing-url]: CONTRIBUTING.md
-[github.io-url]: https://NicolasReboule.github.io/CPPTemplate/
-[release-shield]: https://img.shields.io/github/v/release/NicolasReboule/CPPTemplate?color=lime&label=LATEST%20RELEASE&style=for-the-badge
-[release-url]: https://github.com/NicolasReboule/CPPTemplate/releases/latest
-[build-url]: https://github.com/NicolasReboule/CPPTemplate/actions/workflows/build.yml
-[build-shield]: https://img.shields.io/github/actions/workflow/status/NicolasReboule/CPPTemplate/build.yml?style=for-the-badge
-[lint-url]: https://github.com/NicolasReboule/CPPTemplate/actions/workflows/linter.yml
-[lint-shield]: https://img.shields.io/github/actions/workflow/status/NicolasReboule/CPPTemplate/linter.yml?style=for-the-badge&label=Linting
-[docs-url]: https://github.com/NicolasReboule/CPPTemplate/actions/workflows/pages/pages-build-deployment
-[docs-shield]: https://img.shields.io/github/actions/workflow/status/NicolasReboule/CPPTemplate/pages/pages-build-deployment?style=for-the-badge&label=Docs
-[coverage-url]: https://app.codecov.io/github/NicolasReboule/CPPTemplate
-[coverage-shield]: https://img.shields.io/codecov/c/github/NicolasReboule/CPPTemplate?token=0Z3FKJ3XLE&style=for-the-badge
+[github.io-url]: https://NicolasReboule.github.io/Magpie/
+[release-shield]: https://img.shields.io/github/v/release/NicolasReboule/Magpie?color=lime&label=LATEST%20RELEASE&style=for-the-badge
+[release-url]: https://github.com/NicolasReboule/Magpie/releases/latest
+[build-url]: https://github.com/NicolasReboule/Magpie/actions/workflows/build.yml
+[build-shield]: https://img.shields.io/github/actions/workflow/status/NicolasReboule/Magpie/build.yml?style=for-the-badge
+[lint-url]: https://github.com/NicolasReboule/Magpie/actions/workflows/linter.yml
+[lint-shield]: https://img.shields.io/github/actions/workflow/status/NicolasReboule/Magpie/linter.yml?style=for-the-badge&label=Linting
+[docs-url]: https://github.com/NicolasReboule/Magpie/actions/workflows/pages/pages-build-deployment
+[docs-shield]: https://img.shields.io/github/actions/workflow/status/NicolasReboule/Magpie/pages/pages-build-deployment?style=for-the-badge&label=Docs
+[coverage-url]: https://app.codecov.io/github/NicolasReboule/Magpie
+[coverage-shield]: https://img.shields.io/codecov/c/github/NicolasReboule/Magpie?token=0Z3FKJ3XLE&style=for-the-badge
 
 
 [CPP]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
